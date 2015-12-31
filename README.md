@@ -1,2 +1,2 @@
 # CCsearcher
-Searches Soundcloud and only return CC licenses musics
+Searches Soundcloud and only returns CC licensed music
